@@ -1,5 +1,5 @@
 ---
-- hosts: db
-  become: true
+- name: Deploy and configure MySQL database
+  hosts: db
   roles:
     - mysql
