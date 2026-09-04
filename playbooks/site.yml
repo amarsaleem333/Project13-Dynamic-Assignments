@@ -3,4 +3,9 @@
 
 - import_playbook: ../static-assignments/common.yml
 
-- import_playbook: ../static-assignments/webservers.yml
+- import_playbook: ../static-assignments/uat-webservers.yml
+
+- import_playbook: ../static-assignments/db.yml
+
+- import_playbook: ../static-assignments/loadbalancers.yml
+  when: load_balancer_is_required
