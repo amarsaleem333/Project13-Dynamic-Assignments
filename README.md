@@ -229,8 +229,9 @@ Total 21 (delta 5), reused 0 (delta 0)
 To https://github.com/amarsaleem333/Project13-Dynamic-Assignments.git
  * [new branch]      dynamic-assignments -> dynamic-assignments
 
-Visual Infrastructure Architecture Diagram
+![Visual Infrastructure Architecture Diagram]
 
+<img src="https://github.com/user-attachments/assets/example-id" alt="Visual Infrastructure Architecture Diagram" width="100%">
 <img width="1920" height="1032" alt="VS studio snapshout final" src="https://github.com/user-attachments/assets/e9ada3d0-6f3f-41a5-9616-f58579edb2d9" />
 
 
