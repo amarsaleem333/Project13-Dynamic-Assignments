@@ -19,10 +19,9 @@ The project infrastructure consists of dedicated AWS EC2 instances supporting Je
 
 | Server / Host Role | Instance ID | Private IP | OS / Distribution | State |
 | :--- | :--- | :--- | :--- | :--- |
-| **Jenkins-Ansible Controller** | `i-0896842635656b392` | `172.31.32.54` | Ubuntu 24.04 LTS | Stopped |
-| **Web1-UAT** | `i-0609fd26cb83f372f` | `172.31.8.200` | RHEL 8.10 | Stopped |
-| **Web2-UAT** | `i-0cfd71d050e9465e8` | `172.31.0.22` | RHEL 8.10 | Stopped |
-
+| **Jenkins-Ansible Controller** | `i-0896842635656b392` | `172.31.32.54` | Ubuntu 24.04 LTS 
+| **Web1-UAT** | `i-0609fd26cb83f372f` | `172.31.8.200` | RHEL 8.10 
+| **Web2-UAT** | `i-0cfd71d050e9465e8` | `172.31.0.22` | RHEL 8.10 
 ---
 
 ## Repository Structure & File Layout
