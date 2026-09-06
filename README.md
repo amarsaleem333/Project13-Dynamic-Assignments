@@ -231,7 +231,7 @@ To https://github.com/amarsaleem333/Project13-Dynamic-Assignments.git
 
 Visual Infrastructure Architecture Diagram
 
-<img width="708" height="575" alt="Visual Infrastructure Architecture Diagram" src="https://github.com/user-attachments/assets/e53aa44e-7cb0-4a93-a278-c95531a43710" />
+<img width="1920" height="1032" alt="VS studio snapshout final" src="https://github.com/user-attachments/assets/e9ada3d0-6f3f-41a5-9616-f58579edb2d9" />
 
 
 
