@@ -229,8 +229,6 @@ Total 21 (delta 5), reused 0 (delta 0)
 To https://github.com/amarsaleem333/Project13-Dynamic-Assignments.git
  * [new branch]      dynamic-assignments -> dynamic-assignments
 
-[Visual Infrastructure Architecture Diagram](https://github.com/amarsaleem333/Project13-Dynamic-Assignments/blob/master/Visual%20Infrastructure%20Architecture%20Diagram.png)
-
 
 
 
