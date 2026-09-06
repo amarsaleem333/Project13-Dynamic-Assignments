@@ -128,7 +128,7 @@ cd ~/ansible-config-mgt
 
 # Initialize and pull current project files
 git init
-git remote add origin https://github.com/amarsaleem333/Project13-Dynamic-Assignments.git[cite: 4]
+git remote add origin https://github.com/amarsaleem333/Project13-Dynamic-Assignments.git
 git pull origin master
 
 # Create and switch to working feature branch
@@ -174,7 +174,7 @@ ubuntu@ip-172.31-32-54:~/ansible-config-mgt$ tree -L 2
 Download and install the community MySQL role directly into the project roles directory
 
 # Navigate to roles directory and download MySQL role from Galaxy
-cd roles/[cite: 4]
+cd roles
 ansible-galaxy install geerlingguy.mysql
 
 # Rename community role directory for structure standardization
