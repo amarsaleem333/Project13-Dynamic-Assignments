@@ -231,8 +231,7 @@ To https://github.com/amarsaleem333/Project13-Dynamic-Assignments.git
 
 ![Visual Infrastructure Architecture Diagram]
 
-https://github.com/amarsaleem333/Project13-Dynamic-Assignments/blob/master/Visual%20Infrastructure%20Architecture%20Diagram.png
-
+[Visual Infrastructure Architecture Diagram](https://github.com/amarsaleem333/Project13-Dynamic-Assignments/blob/master/Visual%20Infrastructure%20Architecture%20Diagram.png)
 
 
 
