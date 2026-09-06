@@ -129,10 +129,10 @@ cd ~/ansible-config-mgt
 # Initialize and pull current project files
 git init
 git remote add origin https://github.com/amarsaleem333/Project13-Dynamic-Assignments.git[cite: 4]
-git pull origin master[cite: 4]
+git pull origin master
 
 # Create and switch to working feature branch
-git checkout -b dynamic-assignments[cite: 4]
+git checkout -b dynamic-assignments
 
 Console Output:
 
@@ -143,11 +143,11 @@ Switched to a new branch 'dynamic-assignments'
 Build the dynamic directory layout and environment variable files
 
 # Create dynamic assignments and environment directories
-mkdir dynamic-assignments env-vars[cite: 4]
+mkdir dynamic-assignments env-vars
 
 # Create dynamic variable files
-touch dynamic-assignments/env-vars.yml[cite: 4]
-touch env-vars/dev.yml env-vars/stage.yml env-vars/uat.yml env-vars/prod.yml[cite: 4]
+touch dynamic-assignments/env-vars.yml
+touch env-vars/dev.yml env-vars/stage.yml env-vars/uat.yml env-vars/prod.yml
 
 Console Output:
 
@@ -175,7 +175,7 @@ Download and install the community MySQL role directly into the project roles di
 
 # Navigate to roles directory and download MySQL role from Galaxy
 cd roles/[cite: 4]
-ansible-galaxy install geerlingguy.mysql[cite: 4]
+ansible-galaxy install geerlingguy.mysql
 
 # Rename community role directory for structure standardization
 mv geerlingguy.mysql mysql
@@ -215,7 +215,7 @@ PLAY RECAP *********************************************************************
 5. Git Commit & Remote Synchronization
 
 # Stage, commit, and push changes to GitHub
-git add .[cite: 4]
+git add .
 git commit -m "Add dynamic-assignments, env-vars, and community mysql role"[cite: 4]
 git push origin dynamic-assignments
 
