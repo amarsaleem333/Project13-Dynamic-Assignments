@@ -216,7 +216,7 @@ PLAY RECAP *********************************************************************
 
 # Stage, commit, and push changes to GitHub
 git add .
-git commit -m "Add dynamic-assignments, env-vars, and community mysql role"[cite: 4]
+git commit -m "Add dynamic-assignments, env-vars, and community mysql role"
 git push origin dynamic-assignments
 
 Console Output:
@@ -232,7 +232,6 @@ To https://github.com/amarsaleem333/Project13-Dynamic-Assignments.git
 Visual Infrastructure Architecture Diagram
 
 <img width="708" height="575" alt="Visual Infrastructure Architecture Diagram" src="https://github.com/user-attachments/assets/e53aa44e-7cb0-4a93-a278-c95531a43710" />
-
 
 
 
